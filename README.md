@@ -1,7 +1,7 @@
-# portfolio
-# O mnie
-# Narzędzia
-# Kursy
-# Grupy testerskie
-# Blogi
-# Moje projekty
+# Portfolio
+## O mnie
+## Narzędzia
+## Kursy
+## Grupy testerskie
+## Blogi
+## Moje projekty
