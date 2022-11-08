@@ -1,2 +1,2 @@
 # portfolio
-Moje testerskie portfolio
+Testerskie portfolio
